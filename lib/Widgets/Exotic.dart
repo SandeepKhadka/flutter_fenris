@@ -77,7 +77,7 @@ class ExoticItemWidget extends StatelessWidget {
                                   //   ),
                                   // ),
 
-                                  SizedBox(height: 10), // Increased spacing
+                                  // SizedBox(height: 10), // Increased spacing
                                   Row(
                                     mainAxisAlignment:
                                         MainAxisAlignment.spaceBetween,
