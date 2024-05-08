@@ -38,6 +38,6 @@ Future<void> main() async {
   Get.put(UpdateProfileController());
 
   runApp(const GetMaterialApp(
-    // home: LoginPage(),
+    home: LoginPage(),
   ));
 }
